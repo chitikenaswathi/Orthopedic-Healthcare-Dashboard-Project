@@ -44,3 +44,5 @@ Data Cleaning Functions
 ✅ Data visualization helps uncover real-world patterns
 ✅ Even Excel can be a powerful BI tool when used right
 ✅ Dashboards can help healthcare teams make data-driven decisions
+#### Dashboard
+"C:\Users\ADMIN\Pictures\Screenshots\Dashboard.lnk"
