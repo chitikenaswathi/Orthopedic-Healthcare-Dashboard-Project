@@ -45,4 +45,5 @@ Data Cleaning Functions
 ✅ Even Excel can be a powerful BI tool when used right
 ✅ Dashboards can help healthcare teams make data-driven decisions
 #### Dashboard
-"C:\Users\ADMIN\Pictures\Screenshots\Dashboard.lnk"
+<img width="1644" height="806" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a8b1cd87-0235-4f33-b153-faad478e5232" />
+
